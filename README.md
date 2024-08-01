@@ -1,1 +1,1 @@
-You will have to ajdust file directory for your PC. 
+You will have to ajdust file directory for your PC.  i was working in a file named day29  so if you crete the same and but main.py and logo in the same folder you should be good to go. but anyway try yourself!
